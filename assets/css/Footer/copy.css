@@ -1,0 +1,17 @@
+
+.copy{
+    
+    background-color: black;
+    
+}
+
+.copy p{
+    font-size: 0.9rem;
+    color: white;
+}
+
+.copy-content{
+    display: flex;
+    justify-content: space-between;
+    padding:0.8rem 0rem;
+}

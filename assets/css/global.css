@@ -1,0 +1,94 @@
+@import url(Header/header.css);
+@import url(Banner/banner.css);
+@import url(Main/servicos/servicos.css);
+@import url(Main/servicos/cards.css);
+@import url(Main/depoimentos/depoimentos.css);
+@import url(Main/sobre/sobre.css);
+@import url(Footer/contato.css);
+@import url(Footer/copy.css);
+
+
+.limit-section  {
+    max-width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+.globalorange  {
+  color: #FF4A00;
+}
+
+#sobretopomid  {
+  justify-content: space-between;
+}
+
+#sobremid  {
+  align-items: center;
+}
+
+#sobremidtittle  {
+  font-size: 21.09px;
+}
+
+#nascmidtittle  {
+  font-weight: 700;
+  font-size: 35.16px;
+  margin-top: 1rem;
+}
+
+.alltext  {
+  width: 40%;
+  text-align: left;
+  gap: 32px;
+}
+
+.textsobre  {
+  size: 18px;
+  line-height: 21.09px;
+  color: #000000;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+#textsobre  {
+  margin-top: 1.5rem  ;
+}
+
+.botaosobre  {
+  margin-top: 1.5rem;
+  background-color: #FFFFFF;
+  border: 1px solid #FF4A00;
+  border-radius: 5px;
+  padding: 12px 28px 12px 28px;
+}
+
+.botaosobre a  {
+  color: #FF4A00;
+  text-decoration: none;
+  gap: 10px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.organizasobre  {
+  display: flex;
+  align-items: center;
+}
+
+.fotosobre  {
+  width: 65%;
+}
+
+.fotosobre img  {
+  width: 65%;
+} 
+
+.tittle  {
+  margin-top: 1rem;
+}

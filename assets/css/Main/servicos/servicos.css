@@ -1,0 +1,44 @@
+#servicos {
+    height: 130vh;
+    width: 100%;
+    background-color: black;
+    
+}
+.box-servicos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.box-servicos h2 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #FF4A00;
+    font-family: 'Roboto', sans-serif;
+}
+.box-servicos p{
+    line-height: 23.44px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    width: 48%;
+}
+
+.button-problema {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 2rem;
+    border: 2px solid #FF4A00;
+    background-color: black;
+    border-radius: 4px;
+
+  }
+  
+  .button-problema a {
+    color: #FF4A00;
+    font-weight: bold;
+  }
